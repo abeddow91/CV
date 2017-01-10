@@ -9,16 +9,10 @@ I have recently graduated from Makers Academy, a highly-selective, 16-week inten
 
 Communication - With a degree in English Literature and 2 years experience as point of contact for both client-side and back-office, I understand how integral clean, clear and concise communication is to any role.
 
-Adaptable - During my 16 weeks at Makers Academy, I have written in Ruby, Javascript, jQuery, Java and Swift and I am keen to continue these languages as well as developing more. 
+Adaptable and Fast Learner - During my 16 weeks at Makers Academy, I have written in Ruby, Javascript, jQuery, Java and Swift and I am excited to continue developing my skills.
 
-Teamwork - With pair-programming and Agile methodologies at the heart of everything I undertook at Makers Academy, I am equipped with the necessary skills to succeed in a team environment.
+Teamwork - With pair-programming and Agile methodologies at the heart of everything I undertook at Makers Academy, I am fully equipped with the necessary skills to succeed in a team environment.
 
-Creative
-
-Analytic Thinker
-
-
-Fast learner
 
 ## Projects
 
@@ -26,23 +20,6 @@ Fast learner
  ------------- | ----------- | --------------------- | ------------ | -------
  [TriviaSmack](https://github.com/nicoleshasha/AlexaPubQuiz)| A multi-player trivia game for the Amazon Alexa | Java | 10 days | JUnit, Mockito   
  [Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [Available here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| JavaScript | 4 days  | Jasmine
-<!--
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
