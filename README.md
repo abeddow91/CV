@@ -2,7 +2,7 @@
 
 I'm Anna, a full-stack developer based in London. After working in mobile brand advertising alongside developers, I decided to make to transition to working as a developer instead; the best decision I ever made!
 
-I have recently graduated from Makers Academy, a highly-selective, 16-week intensive coding bootcamp and am now looking for a Full Stack Junior Developer role in an exciting company that has tech at it's heart. I looking for a company where I can continue to grow and develop my programming skills within an Agile environment.
+I have recently graduated from Makers Academy - a highly-selective, 16-week intensive coding bootcamp - and I am now looking for a Full-Stack Junior Developer role in an exciting company that has tech at it's heart. I looking for a company where I can continue to grow and develop my programming skills within an Agile environment.
 
 
 ## Skills
