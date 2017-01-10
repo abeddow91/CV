@@ -7,6 +7,25 @@ I have recently graduated from Makers Academy, a highly-selective, 16-week inten
 
 ## Skills
 
+Communication
+
+Teamwork
+
+Creative
+
+Analytic Thinker
+
+Adaptable - During my 16 weeks at Makers Academy, I have written in Ruby, Javascript, jQuery, Java and Swift and I am keen to add more languages to my roster
+
+Fast learner
+
+## Projects
+
+ Project | Description | Technologies | Timeframe | Testing
+ ------------- | ----------- | --------------------- | ------------ | -------
+ [TriviaSmack](https://github.com/ensemble-team/ensemble)| A multi-player trivia game for the Amazon Alexa | Java | 10 days | JUnit Mockito   
+ [Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [Available here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| JavaScript | 4 days  | Jasmine
+<!--
 #### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -22,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
