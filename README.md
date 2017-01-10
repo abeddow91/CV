@@ -34,16 +34,20 @@ A 16-week, highly-selective web development program with a focus on:
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Java, HTML, CSS, SQL
-- Rspec, Jasmine, Mocha, JUnit
+- Rspec, Jasmine, Mocha, JUnit, Capybara
 
-#### University of Sheffield (Sept 2009 to Jun 2012)
+#### University of Sheffield (Sept 2009 - Jun 2012)
 
 - English Literature
-- 2:1 BA Hons
+- 2:1 Class BA Hons.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Phunware (formerly Odyssey Mobile)** (Apr 2014 - Jul 2016)    
+*Senior Campaign Manager*  
+
+**Barnardo's** (Sept 2013 - Jan 2014)   
+*Marketing Intern*  
+
+**University Of Nottingham** (Sept 2012 - May 2013)   
+*P.A. to Head of Engineering*
