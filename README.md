@@ -7,15 +7,16 @@ I have recently graduated from Makers Academy, a highly-selective, 16-week inten
 
 ## Skills
 
-Communication
+Communication - With a degree in English Literature and 2 years experience as point of contact for both client-side and back-office, I understand how integral clean, clear and concise communication is to any role.
 
-Teamwork
+Adaptable - During my 16 weeks at Makers Academy, I have written in Ruby, Javascript, jQuery, Java and Swift and I am keen to continue these languages as well as developing more. 
+
+Teamwork - With pair-programming and Agile methodologies at the heart of everything I undertook at Makers Academy, I am equipped with the necessary skills to succeed in a team environment.
 
 Creative
 
 Analytic Thinker
 
-Adaptable - During my 16 weeks at Makers Academy, I have written in Ruby, Javascript, jQuery, Java and Swift and I am keen to add more languages to my roster
 
 Fast learner
 
