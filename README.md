@@ -14,7 +14,7 @@ I have recently graduated from Makers Academy, a highly-selective, 16-week inten
 - During my 16 weeks at Makers Academy, I have written in Ruby, Javascript, jQuery, Java and Swift and I am excited to continue developing my skills.
 
 ### Teamwork
-- With pair-programming and Agile methodologies at the heart of everything I undertook at Makers Academy, I am fully equipped with the necessary skills to succeed in a team environment.
+- With pair-programming and Agile methodologies at the heart of everything I undertook at Makers Academy, I understand the importance of being a team-player and I am fully equipped with the necessary skills to succeed in any team environment.
 
 
 ## Projects
