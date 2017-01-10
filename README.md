@@ -23,7 +23,7 @@ Fast learner
 
  Project | Description | Technologies | Timeframe | Testing
  ------------- | ----------- | --------------------- | ------------ | -------
- [TriviaSmack](https://github.com/ensemble-team/ensemble)| A multi-player trivia game for the Amazon Alexa | Java | 10 days | JUnit Mockito   
+ [TriviaSmack](https://github.com/nicoleshasha/AlexaPubQuiz)| A multi-player trivia game for the Amazon Alexa | Java | 10 days | JUnit, Mockito   
  [Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [Available here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| JavaScript | 4 days  | Jasmine
 <!--
 #### This Skill
