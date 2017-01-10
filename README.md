@@ -23,22 +23,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Sept 2016 - Dec 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+A 16-week, highly-selective web development program with a focus on:
+
+- Pair Programming combined with Agile methodologies
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Java, HTML, CSS, SQL
+- Rspec, Jasmine, Mocha, JUnit
 
-#### Your University / College (start_date to end_date)
+#### University of Sheffield (Sept 2009 to Jun 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- English Literature
+- 2:1 BA Hons
 
 ## Experience
 
