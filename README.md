@@ -1,6 +1,9 @@
-## Your Name
+## Anna Beddow
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm Anna, a full-stack developer based in London. After working in mobile brand advertising alongside developers, I decided to make to transition to working as a developer instead; the best decision I ever made!
+
+I have recently graduated from Makers Academy, a highly-selective, 16-week intensive coding bootcamp and am now looking for a Full Stack Junior Developer role in an exciting company that has tech at it's heart. I looking for a company where I can continue to grow and develop my programming skills within an Agile environment.
+
 
 ## Skills
 
